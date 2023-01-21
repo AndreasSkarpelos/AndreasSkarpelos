@@ -23,7 +23,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skarbel)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarbel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasSkarpelos)](https://github.com/anuraghazra/github-readme-stats)
 
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
