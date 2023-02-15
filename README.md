@@ -27,10 +27,16 @@ https://github.com/anuraghazra/github-readme-stats
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
 -->
+As a junior-level Detection Engineer, I design and maintain automated detection systems to identify potential threats to an organization's information systems and network infrastructure. 
 
+I work closely with senior cybersecurity professionals, such as Security Analysts, Threat Intelligence Analysts, and Incident Response Teams to develop a comprehensive and effective detection and response program.
 
+Overall, I am committed to maintaining a robust set of security detections that can identify potential threats in real-time.
+<br><br>
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasSkarpelos&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3> -->
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
@@ -42,14 +48,12 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasSkarpelos&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
