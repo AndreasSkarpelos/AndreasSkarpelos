@@ -27,7 +27,7 @@ https://github.com/anuraghazra/github-readme-stats
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
 -->
-As a junior-level Detection Engineer, I design and maintain automated detection systems to identify potential threats to an organization's information systems and network infrastructure. 
+As a Detection Engineer, I design and maintain automated detection systems to identify potential threats to an organization's information systems and network infrastructure. 
 
 I work closely with senior cybersecurity professionals, such as Security Analysts, Threat Intelligence Analysts, and Incident Response Teams to develop a comprehensive and effective detection and response program.
 
