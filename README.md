@@ -34,7 +34,7 @@ I work closely with senior cybersecurity professionals, such as Security Analyst
 Overall, I am committed to maintaining a robust set of security detections that can identify potential threats in real-time.
 <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasSkarpelos&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](github-readme-stats-five-psi-27.vercel.app/api?username=AndreasSkarpelos&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3> -->
 <p align="left">
